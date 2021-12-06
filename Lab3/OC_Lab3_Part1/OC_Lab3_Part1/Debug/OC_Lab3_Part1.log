@@ -1,0 +1,25 @@
+﻿Построение начато 06.12.2021 1:45:36.
+     1>Проект "C:\Users\Danila\Documents\Visual Studio 2010\Projects\OC_Lab3_Part1\OC_Lab3_Part1\OC_Lab3_Part1.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\OC_Lab3_Part1.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\OC_Lab3_Part1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt OC_Lab3_Part1.cpp
+         OC_Lab3_Part1.cpp
+     1>c:\users\danila\documents\visual studio 2010\projects\oc_lab3_part1\oc_lab3_part1\oc_lab3_part1.cpp(102): warning C4101: y: неиспользованная локальная переменная
+     1>c:\users\danila\documents\visual studio 2010\projects\oc_lab3_part1\oc_lab3_part1\oc_lab3_part1.cpp(205): warning C4101: ThID2: неиспользованная локальная переменная
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Danila\Documents\Visual Studio 2010\Projects\OC_Lab3_Part1\Debug\OC_Lab3_Part1.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\OC_Lab3_Part1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Danila\Documents\Visual Studio 2010\Projects\OC_Lab3_Part1\Debug\OC_Lab3_Part1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Danila\Documents\Visual Studio 2010\Projects\OC_Lab3_Part1\Debug\OC_Lab3_Part1.lib" /MACHINE:X86 Debug\OC_Lab3_Part1.obj
+         Debug\stdafx.obj
+     1>OC_Lab3_Part1.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+         OC_Lab3_Part1.vcxproj -> C:\Users\Danila\Documents\Visual Studio 2010\Projects\OC_Lab3_Part1\Debug\OC_Lab3_Part1.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Danila\Documents\Visual Studio 2010\Projects\OC_Lab3_Part1\Debug\OC_Lab3_Part1.exe;#1" /manifest Debug\OC_Lab3_Part1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\OC_Lab3_Part1.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\OC_Lab3_Part1.lastbuildstate".
+     1>Построение проекта "C:\Users\Danila\Documents\Visual Studio 2010\Projects\OC_Lab3_Part1\OC_Lab3_Part1\OC_Lab3_Part1.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.98
